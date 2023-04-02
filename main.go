@@ -4,6 +4,6 @@ import (
 	"gophercise/quiz"
 )
 
-func main() {
-	quiz.Quiz()
-}
+	func main() {
+		quiz.Quiz()
+	}
